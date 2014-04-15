@@ -28,4 +28,4 @@ $(".content").mCustomScrollbar({
 });
 ```
 
-[Detailed usage guide](http://manos.malihu.gr/jquery-custom-content-scroller/)
+### [Detailed usage guide](http://manos.malihu.gr/jquery-custom-content-scroller/)
