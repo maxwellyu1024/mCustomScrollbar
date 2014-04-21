@@ -1,5 +1,11 @@
 ## How to use it
 
+##### Install as a **``bower``** package
+
+```bash
+$ bower install --save https://github.com/saatur/mCustomScrollbar.git
+```
+
 After files inclusion, call mCustomScrollbar function on the element you want to add custom scrollbars. The example below adds scrollbars to elements with class name content
 
 ```javascript
